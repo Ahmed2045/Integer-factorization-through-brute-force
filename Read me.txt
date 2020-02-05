@@ -1,0 +1,6 @@
+//
+This project initialize a connection between server and client 
+then it takes a long number from Client from run configuration argument
+then it  sends this number to the server which in turn make integral factorization to it 
+then it sends the output again to the client 
+//
